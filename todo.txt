@@ -1,0 +1,3 @@
+replace babel-preset-hmre
+
+delete server.js + tools folder
